@@ -6,6 +6,7 @@
     "num_recipes": 150,
     "likes": 10000,
     "picture": "https://example.com/gordon.jpg",
+    "description": "Gordon Ramsay is a Scottish chef, restaurateur, and television personality. He has owned and operated a series of successful restaurants, and is known for his fiery temper and sharp tongue on shows like 'Hell's Kitchen' and 'Kitchen Nightmares'.",
     "recipes": [
       {
         "name": "Beef Wellington"
@@ -28,6 +29,7 @@
     "num_recipes": 100,
     "likes": 5000,
     "picture": "https://example.com/jamie.jpg",
+    "description": "Jamie Oliver is a British chef and television personality. He is known for his emphasis on healthy eating, and has authored several cookbooks and hosted numerous television shows, including 'The Naked Chef' and 'Jamie's Kitchen'.",
     "recipes": [
       {
         "name": "Roast chicken"
@@ -50,6 +52,7 @@
     "num_recipes": 75,
     "likes": 8000,
     "picture": "https://example.com/nigella.jpg",
+    "description": "Nigella Lawson is a British food writer, journalist, and television personality. She is known for her relaxed and informal cooking style, and has authored several bestselling cookbooks, including 'How to Eat' and 'Nigella Bites'.",
     "recipes": [
       {
         "name": "Chocolate cake"
@@ -72,6 +75,7 @@
     "num_recipes": 200,
     "likes": 12000,
     "picture": "https://example.com/ina.jpg",
+    "description": "Ina Garten is an American chef and television personality. She is known for her casual and elegant approach to cooking, and has authored several bestselling cookbooks, including 'Barefoot Contessa at Home' and 'Barefoot Contessa Parties'.",
     "recipes": [
       {
         "name": "Roast chicken"
@@ -94,6 +98,7 @@
     "num_recipes": 50,
     "likes": 7000,
     "picture": "https://example.com/anthony.jpg",
+    "description": "Anthony Bourdain was an American chef, author, and television personality. He was known for his adventurous spirit and love of international cuisine, and hosted several popular food and travel shows, including 'Anthony Bourdain: Parts Unknown'.",
     "recipes": [
       {
         "name": "Bánh mì"
@@ -116,6 +121,7 @@
     "num_recipes": 125,
     "likes": 9000,
     "picture": "https://example.com/bobby.jpg",
+    "description": "Bobby Flay Puck is an Austrian-American chef, restaurateur, and television personality. He has owned and operated several highly-acclaimed restaurants, and is known for his fusion cuisine and innovative use of seasonal ingredients.",
     "recipes": [
       {
         "name": "Grilled steak"
