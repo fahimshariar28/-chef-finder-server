@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Gordon Ramsay",
+    "years_of_experience": 30,
+    "num_recipes": 150,
+    "likes": 10000,
+    "picture": "https://example.com/gordon.jpg",
+    "recipes": [
+      {
+        "name": "Beef Wellington"
+      },
+      {
+        "name": "Shepherd's pie"
+      },
+      {
+        "name": "Sticky toffee pudding"
+      },
+      {
+        "name": "Eggs Benedict"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jamie Oliver",
+    "years_of_experience": 25,
+    "num_recipes": 100,
+    "likes": 5000,
+    "picture": "https://example.com/jamie.jpg",
+    "recipes": [
+      {
+        "name": "Roast chicken"
+      },
+      {
+        "name": "Spaghetti bolognese"
+      },
+      {
+        "name": "Fish and chips"
+      },
+      {
+        "name": "Banoffee pie"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Nigella Lawson",
+    "years_of_experience": 20,
+    "num_recipes": 75,
+    "likes": 8000,
+    "picture": "https://example.com/nigella.jpg",
+    "recipes": [
+      {
+        "name": "Chocolate cake"
+      },
+      {
+        "name": "Lemon drizzle cake"
+      },
+      {
+        "name": "Pasta carbonara"
+      },
+      {
+        "name": "Cinnamon rolls"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ina Garten",
+    "years_of_experience": 35,
+    "num_recipes": 200,
+    "likes": 12000,
+    "picture": "https://example.com/ina.jpg",
+    "recipes": [
+      {
+        "name": "Roast chicken"
+      },
+      {
+        "name": "Grilled cheese"
+      },
+      {
+        "name": "Pesto pasta"
+      },
+      {
+        "name": "Chocolate cake"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Anthony Bourdain",
+    "years_of_experience": 20,
+    "num_recipes": 50,
+    "likes": 7000,
+    "picture": "https://example.com/anthony.jpg",
+    "recipes": [
+      {
+        "name": "Bánh mì"
+      },
+      {
+        "name": "Beef bourguignon"
+      },
+      {
+        "name": "Huevos rancheros"
+      },
+      {
+        "name": "Ceviche"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Bobby Flay",
+    "years_of_experience": 25,
+    "num_recipes": 125,
+    "likes": 9000,
+    "picture": "https://example.com/bobby.jpg",
+    "recipes": [
+      {
+        "name": "Grilled steak"
+      },
+      {
+        "name": "Tacos al pastor"
+      },
+      {
+        "name": "Buttermilk pancakes"
+      },
+      {
+        "name": "Margarita"
+      }
+    ]
+  }
+]
