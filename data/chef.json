@@ -2,210 +2,690 @@
   {
     "id": 1,
     "name": "Gordon Ramsay",
+    "picture_chef": "https://i.ibb.co/FBnvYVT/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
     "years_of_experience": 30,
     "num_recipes": 150,
     "likes": 10000,
-    "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
     "description": "Gordon Ramsay is a Scottish chef, restaurateur, and television personality. He has owned and operated a series of successful restaurants, and is known for his fiery temper and sharp tongue on shows like 'Hell's Kitchen' and 'Kitchen Nightmares'.",
     "recipes": [
       {
-        "name": "Beef Wellington",
-        "description": "A classic British dish consisting of filet steak coated in pâté and wrapped in puff pastry.",
-        "likes": 500,
-        "price": 45.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       },
       {
-        "name": "Shepherd's Pie",
-        "description": "A savory pie made with minced lamb or beef, topped with mashed potatoes.",
-        "likes": 800,
-        "price": 19.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       },
       {
-        "name": "Sticky Toffee Pudding",
-        "description": "A British dessert made with dates and drizzled with toffee sauce.",
-        "likes": 1200,
-        "price": 12.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       },
       {
-        "name": "Fish and Chips",
-        "description": "A British staple of battered fish and deep-fried chips (French fries).",
-        "likes": 1500,
-        "price": 14.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       }
     ]
   },
   {
     "id": 2,
     "name": "Jamie Oliver",
+    "picture_chef": "https://i.ibb.co/dbqjPLD/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
     "years_of_experience": 25,
     "num_recipes": 100,
     "likes": 5000,
-    "picture": "https://i.ibb.co/bQXX5dS/pexels-engin-akyurt-1527603.jpg",
     "description": "Jamie Oliver is a British chef and television personality. He is known for his emphasis on healthy eating, and has authored several cookbooks and hosted numerous television shows, including 'The Naked Chef' and 'Jamie's Kitchen'.",
     "recipes": [
       {
-        "name": "Spaghetti Bolognese",
-        "description": "A classic Italian pasta dish with a rich tomato-based meat sauce.",
-        "likes": 1200,
-        "price": 16.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       },
       {
-        "name": "Roast Chicken",
-        "description": "A comforting and flavorful roasted chicken dish, perfect for Sunday dinners.",
-        "likes": 800,
-        "price": 25.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       },
       {
-        "name": "Fish Pie",
-        "description": "A hearty and creamy British pie made with white fish and topped with mashed potatoes.",
-        "likes": 600,
-        "price": 22.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       },
       {
-        "name": "Pesto Pasta",
-        "description": "A simple and flavorful pasta dish made with fresh basil pesto and cherry tomatoes.",
-        "likes": 1200,
-        "price": 18.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       }
     ]
   },
   {
     "id": 3,
     "name": "Nigella Lawson",
+    "picture_chef": "https://i.ibb.co/JQvztbR/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
     "years_of_experience": 20,
     "num_recipes": 75,
     "likes": 8000,
-    "picture": "https://i.ibb.co/XVsFWfQ/pexels-sebastian-coman-photography-3655916.jpg",
     "description": "Nigella Lawson is a British food writer, journalist, and television personality. She is known for her relaxed and informal cooking style, and has authored several bestselling cookbooks, including 'How to Eat' and 'Nigella Bites'.",
     "recipes": [
       {
-        "name": "Grilled Ribeye Steak",
-        "description": "A juicy and flavorful steak grilled to perfection and seasoned with herbs and spices.",
-        "likes": 800,
-        "price": 35.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       },
       {
-        "name": "Burger with Special Sauce",
-        "description": "A classic American burger topped with a special sauce made with ketchup, mayonnaise, and spices.",
-        "likes": 1200,
-        "price": 14.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       },
       {
-        "name": "Lobster Roll",
-        "description": "A New England classic sandwich made with succulent lobster meat and a buttery bun.",
-        "likes": 500,
-        "price": 24.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       },
       {
-        "name": "Pork Carnitas Tacos",
-        "description": "A Mexican favorite made with tender and juicy pork cooked in spices and served in soft tortillas with fresh toppings.",
-        "likes": 600,
-        "price": 12.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       }
     ]
   },
   {
     "id": 4,
     "name": "Ina Garten",
+    "picture_chef": "https://i.ibb.co/7tkBn4M/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
     "years_of_experience": 35,
     "num_recipes": 200,
     "likes": 12000,
-    "picture": "https://i.ibb.co/0rHrpGt/pexels-terje-sollie-299347-1.jpg",
     "description": "Ina Garten is an American chef and television personality. She is known for her casual and elegant approach to cooking, and has authored several bestselling cookbooks, including 'Barefoot Contessa at Home' and 'Barefoot Contessa Parties'.",
     "recipes": [
       {
-        "name": "Roast Chicken with Lemon and Garlic",
-        "description": "A simple yet flavorful roasted chicken dish seasoned with lemon, garlic, and herbs.",
-        "likes": 1500,
-        "price": 29.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       },
       {
-        "name": "Shrimp Scampi",
-        "description": "A classic Italian-American dish made with succulent shrimp, garlic, and white wine sauce.",
-        "likes": 1000,
-        "price": 26.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       },
       {
-        "name": "Beef Bourguignon",
-        "description": "A French classic dish made with tender beef, mushrooms, carrots, and red wine.",
-        "likes": 1200,
-        "price": 38.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       },
       {
-        "name": "Lemon Bars",
-        "description": "A sweet and tangy dessert made with a buttery shortbread crust and lemon custard filling.",
-        "likes": 2000,
-        "price": 10.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       }
     ]
   },
   {
     "id": 5,
     "name": "Anthony Bourdain",
+    "picture_chef": "https://i.ibb.co/PjR9S1r/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
     "years_of_experience": 20,
     "num_recipes": 50,
     "likes": 7000,
-    "picture": "https://i.ibb.co/zGNdXwh/pexels-mali-maeder-65175.jpg",
     "description": "Anthony Bourdain was an American chef, author, and television personality. He was known for his adventurous spirit and love of international cuisine, and hosted several popular food and travel shows, including 'Anthony Bourdain: Parts Unknown'.",
     "recipes": [
       {
-        "name": "Spaghetti Carbonara",
-        "description": "A classic Italian pasta dish made with spaghetti, eggs, pancetta, and parmesan cheese.",
-        "likes": 1200,
-        "price": 15.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       },
       {
-        "name": "Lemon and Blueberry Muffins",
-        "description": "A light and fluffy muffin made with fresh blueberries and a bright lemon flavor.",
-        "likes": 900,
-        "price": 6.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       },
       {
-        "name": "Slow-Cooked Beef Stew",
-        "description": "A hearty and comforting beef stew made with tender beef, vegetables, and rich broth.",
-        "likes": 800,
-        "price": 24.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       },
       {
-        "name": "Butter Chicken",
-        "description": "A creamy and flavorful Indian curry made with tender chicken cooked in a rich tomato-based sauce.",
-        "likes": 1100,
-        "price": 18.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       }
     ]
   },
   {
     "id": 6,
-    "name": "Bobby Flay",
+    "name": "Crissy",
+    "picture_chef": "https://i.ibb.co/bLyXgwj/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
     "years_of_experience": 25,
     "num_recipes": 125,
     "likes": 9000,
-    "picture": "https://i.ibb.co/Z8k6XqD/pexels-robin-stickel-70497.jpg",
     "description": "Bobby Flay Puck is an Austrian-American chef, restaurateur, and television personality. He has owned and operated several highly-acclaimed restaurants, and is known for his fusion cuisine and innovative use of seasonal ingredients.",
     "recipes": [
       {
-        "name": "Beef Wellington",
-        "description": "A classic British dish made with tender beef fillet wrapped in puff pastry and served with a rich mushroom sauce.",
-        "likes": 1800,
-        "price": 49.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       },
       {
-        "name": "Pan-Seared Scallops",
-        "description": "A simple yet elegant dish made with fresh scallops seared to perfection and served with a tangy sauce.",
-        "likes": 1500,
-        "price": 34.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       },
       {
-        "name": "Sticky Toffee Pudding",
-        "description": "A decadent British dessert made with moist sponge cake and a rich toffee sauce.",
-        "likes": 2000,
-        "price": 12.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       },
       {
-        "name": "Fish and Chips",
-        "description": "A classic British dish made with crispy battered fish and served with chunky fries and tartar sauce.",
-        "likes": 2500,
-        "price": 19.99
+        "name": "Chicken Fajitas",
+        "picture": "https://i.ibb.co/PwGD1Hj/pexels-alexy-almond-3756498.jpg",
+        "ingredients": [
+          "2 skinless chicken breasts",
+          "1 red onion",
+          "1 red pepper",
+          "1 green pepper",
+          "1 tsp smoked paprika",
+          "1 tsp cumin",
+          "1 lime",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "method": [
+          "Preheat a griddle pan over a high heat.",
+          "Cut the chicken into thin strips, then slice the onion and peppers.",
+          "In a bowl, mix the smoked paprika, cumin, and the juice of half a lime.",
+          "Add the chicken to the spice mix and toss to coat.",
+          "Cook the chicken, onion, and peppers on the griddle pan for 6-8 minutes, or until the chicken is cooked through.",
+          "Warm the tortillas in the oven or microwave.",
+          "Serve the fajitas with the tortillas, sour cream, salsa, and lime wedges."
+        ],
+        "rating": 4.5
       }
     ]
   }
