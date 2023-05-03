@@ -9,16 +9,28 @@
     "description": "Gordon Ramsay is a Scottish chef, restaurateur, and television personality. He has owned and operated a series of successful restaurants, and is known for his fiery temper and sharp tongue on shows like 'Hell's Kitchen' and 'Kitchen Nightmares'.",
     "recipes": [
       {
-        "name": "Beef Wellington"
+        "name": "Beef Wellington",
+        "description": "A classic British dish consisting of filet steak coated in pâté and wrapped in puff pastry.",
+        "likes": 500,
+        "price": 45.99
       },
       {
-        "name": "Shepherd's pie"
+        "name": "Shepherd's Pie",
+        "description": "A savory pie made with minced lamb or beef, topped with mashed potatoes.",
+        "likes": 800,
+        "price": 19.99
       },
       {
-        "name": "Sticky toffee pudding"
+        "name": "Sticky Toffee Pudding",
+        "description": "A British dessert made with dates and drizzled with toffee sauce.",
+        "likes": 1200,
+        "price": 12.99
       },
       {
-        "name": "Eggs Benedict"
+        "name": "Fish and Chips",
+        "description": "A British staple of battered fish and deep-fried chips (French fries).",
+        "likes": 1500,
+        "price": 14.99
       }
     ]
   },
@@ -32,16 +44,28 @@
     "description": "Jamie Oliver is a British chef and television personality. He is known for his emphasis on healthy eating, and has authored several cookbooks and hosted numerous television shows, including 'The Naked Chef' and 'Jamie's Kitchen'.",
     "recipes": [
       {
-        "name": "Roast chicken"
+        "name": "Spaghetti Bolognese",
+        "description": "A classic Italian pasta dish with a rich tomato-based meat sauce.",
+        "likes": 1200,
+        "price": 16.99
       },
       {
-        "name": "Spaghetti bolognese"
+        "name": "Roast Chicken",
+        "description": "A comforting and flavorful roasted chicken dish, perfect for Sunday dinners.",
+        "likes": 800,
+        "price": 25.99
       },
       {
-        "name": "Fish and chips"
+        "name": "Fish Pie",
+        "description": "A hearty and creamy British pie made with white fish and topped with mashed potatoes.",
+        "likes": 600,
+        "price": 22.99
       },
       {
-        "name": "Banoffee pie"
+        "name": "Pesto Pasta",
+        "description": "A simple and flavorful pasta dish made with fresh basil pesto and cherry tomatoes.",
+        "likes": 1200,
+        "price": 18.99
       }
     ]
   },
@@ -55,16 +79,28 @@
     "description": "Nigella Lawson is a British food writer, journalist, and television personality. She is known for her relaxed and informal cooking style, and has authored several bestselling cookbooks, including 'How to Eat' and 'Nigella Bites'.",
     "recipes": [
       {
-        "name": "Chocolate cake"
+        "name": "Grilled Ribeye Steak",
+        "description": "A juicy and flavorful steak grilled to perfection and seasoned with herbs and spices.",
+        "likes": 800,
+        "price": 35.99
       },
       {
-        "name": "Lemon drizzle cake"
+        "name": "Burger with Special Sauce",
+        "description": "A classic American burger topped with a special sauce made with ketchup, mayonnaise, and spices.",
+        "likes": 1200,
+        "price": 14.99
       },
       {
-        "name": "Pasta carbonara"
+        "name": "Lobster Roll",
+        "description": "A New England classic sandwich made with succulent lobster meat and a buttery bun.",
+        "likes": 500,
+        "price": 24.99
       },
       {
-        "name": "Cinnamon rolls"
+        "name": "Pork Carnitas Tacos",
+        "description": "A Mexican favorite made with tender and juicy pork cooked in spices and served in soft tortillas with fresh toppings.",
+        "likes": 600,
+        "price": 12.99
       }
     ]
   },
@@ -78,16 +114,28 @@
     "description": "Ina Garten is an American chef and television personality. She is known for her casual and elegant approach to cooking, and has authored several bestselling cookbooks, including 'Barefoot Contessa at Home' and 'Barefoot Contessa Parties'.",
     "recipes": [
       {
-        "name": "Roast chicken"
+        "name": "Roast Chicken with Lemon and Garlic",
+        "description": "A simple yet flavorful roasted chicken dish seasoned with lemon, garlic, and herbs.",
+        "likes": 1500,
+        "price": 29.99
       },
       {
-        "name": "Grilled cheese"
+        "name": "Shrimp Scampi",
+        "description": "A classic Italian-American dish made with succulent shrimp, garlic, and white wine sauce.",
+        "likes": 1000,
+        "price": 26.99
       },
       {
-        "name": "Pesto pasta"
+        "name": "Beef Bourguignon",
+        "description": "A French classic dish made with tender beef, mushrooms, carrots, and red wine.",
+        "likes": 1200,
+        "price": 38.99
       },
       {
-        "name": "Chocolate cake"
+        "name": "Lemon Bars",
+        "description": "A sweet and tangy dessert made with a buttery shortbread crust and lemon custard filling.",
+        "likes": 2000,
+        "price": 10.99
       }
     ]
   },
@@ -101,16 +149,28 @@
     "description": "Anthony Bourdain was an American chef, author, and television personality. He was known for his adventurous spirit and love of international cuisine, and hosted several popular food and travel shows, including 'Anthony Bourdain: Parts Unknown'.",
     "recipes": [
       {
-        "name": "Bánh mì"
+        "name": "Spaghetti Carbonara",
+        "description": "A classic Italian pasta dish made with spaghetti, eggs, pancetta, and parmesan cheese.",
+        "likes": 1200,
+        "price": 15.99
       },
       {
-        "name": "Beef bourguignon"
+        "name": "Lemon and Blueberry Muffins",
+        "description": "A light and fluffy muffin made with fresh blueberries and a bright lemon flavor.",
+        "likes": 900,
+        "price": 6.99
       },
       {
-        "name": "Huevos rancheros"
+        "name": "Slow-Cooked Beef Stew",
+        "description": "A hearty and comforting beef stew made with tender beef, vegetables, and rich broth.",
+        "likes": 800,
+        "price": 24.99
       },
       {
-        "name": "Ceviche"
+        "name": "Butter Chicken",
+        "description": "A creamy and flavorful Indian curry made with tender chicken cooked in a rich tomato-based sauce.",
+        "likes": 1100,
+        "price": 18.99
       }
     ]
   },
@@ -124,16 +184,28 @@
     "description": "Bobby Flay Puck is an Austrian-American chef, restaurateur, and television personality. He has owned and operated several highly-acclaimed restaurants, and is known for his fusion cuisine and innovative use of seasonal ingredients.",
     "recipes": [
       {
-        "name": "Grilled steak"
+        "name": "Beef Wellington",
+        "description": "A classic British dish made with tender beef fillet wrapped in puff pastry and served with a rich mushroom sauce.",
+        "likes": 1800,
+        "price": 49.99
       },
       {
-        "name": "Tacos al pastor"
+        "name": "Pan-Seared Scallops",
+        "description": "A simple yet elegant dish made with fresh scallops seared to perfection and served with a tangy sauce.",
+        "likes": 1500,
+        "price": 34.99
       },
       {
-        "name": "Buttermilk pancakes"
+        "name": "Sticky Toffee Pudding",
+        "description": "A decadent British dessert made with moist sponge cake and a rich toffee sauce.",
+        "likes": 2000,
+        "price": 12.99
       },
       {
-        "name": "Margarita"
+        "name": "Fish and Chips",
+        "description": "A classic British dish made with crispy battered fish and served with chunky fries and tartar sauce.",
+        "likes": 2500,
+        "price": 19.99
       }
     ]
   }
