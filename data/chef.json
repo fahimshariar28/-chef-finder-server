@@ -17,6 +17,7 @@
           "ground beef",
           "Parmigiano-Reggiano cheese",
           "balsamic vinegar",
+          "burger buns",
           "burger buns"
         ],
         "method": [
@@ -35,6 +36,7 @@
           "Spaghetti",
           "Pecorino Romano cheese",
           "black pepper",
+          "salt",
           "salt"
         ],
         "method": [
@@ -53,6 +55,7 @@
           "Tagliatelle pasta",
           "ground beef",
           "canned tomatoes",
+          "onion",
           "onion"
         ],
         "method": [
@@ -71,6 +74,7 @@
           "Mascarpone cheese",
           "ladyfingers",
           "espresso coffee",
+          "cocoa powder",
           "cocoa powder"
         ],
         "method": [
@@ -101,6 +105,7 @@
           "Beef tenderloin",
           " puff pastry",
           "mushrooms",
+          "prosciutto",
           "prosciutto"
         ],
         "method": [
@@ -117,6 +122,7 @@
         "picture": "https://i.ibb.co/zXQPwpK/pexels-jane-doan-769969.jpg",
         "ingredients": [
           "spaghetti",
+          " garlic",
           " garlic",
           "extra-virgin olive oil",
           "red pepper flakes"
@@ -136,6 +142,7 @@
         "ingredients": [
           " beets,",
           "feta cheese",
+          "feta cheese",
           "olive oil",
           "fresh thyme"
         ],
@@ -153,6 +160,7 @@
         "picture": "https://i.ibb.co/xj2DdSz/pexels-lachlan-ross-6510283.jpg",
         "ingredients": [
           "salmon fillet",
+          "butter",
           "butter",
           "lemon  juice",
           "salt"
@@ -183,6 +191,7 @@
         "picture": "https://i.ibb.co/pfMB4SS/pexels-julias-torten-und-t-rtchen-1120464.jpg",
         "ingredients": [
           "peaches",
+          "peaches",
           "vanilla ice cream",
           "brown sugar",
           "cinnamon"
@@ -200,6 +209,7 @@
         "name": "Chicken tikka masala",
         "picture": "https://i.ibb.co/YRt9NP4/pexels-lisa-fotios-1279330.jpg",
         "ingredients": [
+          "chicken breast",
           "chicken breast",
           "onion",
           "tomato puree",
@@ -219,6 +229,7 @@
         "picture": "https://i.ibb.co/phqczBD/pexels-abhishek-mahajan-3928854.jpg",
         "ingredients": [
           "paneer cheese",
+          "paneer cheese",
           "spinach",
           "heavy cream",
           " ghee"
@@ -236,6 +247,7 @@
         "name": "Caprese salad",
         "picture": "https://i.ibb.co/YpvGDSt/pexels-abhishek-mahajan-3928854.jpg",
         "ingredients": [
+          "fresh tomatoes",
           "fresh tomatoes",
           "fresh mozzarella",
           "fresh basil",
@@ -269,6 +281,7 @@
           "bread",
           "avocado",
           "salt",
+          "lemon juice",
           "lemon juice"
         ],
         "method": [
@@ -283,12 +296,7 @@
         "id": 2,
         "name": "Tomato bruschetta",
         "picture": "https://i.ibb.co/1GFn5vW/pexels-mateusz-feliksik-11789787.jpg",
-        "ingredients": [
-          "bread",
-          "tomatoes",
-          "garlic",
-          "olive oil"
-        ],
+        "ingredients": ["bread", "bread", "tomatoes", "garlic", "olive oil"],
         "method": [
           "Toast the bread.",
           "Dice the tomatoes and mix them in a bowl with minced garlic and olive oil.",
@@ -302,6 +310,7 @@
         "name": "Roasted sweet potato wedges",
         "picture": "https://i.ibb.co/1GFn5vW/pexels-mateusz-feliksik-11789787.jpg",
         "ingredients": [
+          "sweet potatoes",
           "sweet potatoes",
           " olive oil",
           "salt",
@@ -320,6 +329,7 @@
         "name": "Caprese salad",
         "picture": "https://i.ibb.co/QPLqpf0/pexels-sydney-troxell-718742.jpg",
         "ingredients": [
+          " tomatoes",
           " tomatoes",
           "fresh mozzarella",
           "basil leaves",
@@ -353,6 +363,7 @@
           " pork chops",
           "honey",
           "mustard",
+          "mustard",
           "olive oil"
         ],
         "method": [
@@ -367,12 +378,7 @@
         "id": 2,
         "name": "Creamy Avocado Pasta",
         "picture": "https://i.ibb.co/85C17yF/pexels-magda-ehlers-4198400.jpg",
-        "ingredients": [
-          "pasta",
-          "avocado",
-          "garlic",
-          "olive oil"
-        ],
+        "ingredients": ["pasta", "avocado", "avocado", "garlic", "olive oil"],
         "method": [
           "Cook pasta according to package instructions and drain.",
           "In a blender, puree avocado and garlic.",
@@ -388,6 +394,7 @@
         "ingredients": [
           " chicken breasts",
           " bell peppers",
+          "pineapple",
           "pineapple",
           " sweet and sour sauce"
         ],
@@ -405,6 +412,7 @@
         "picture": "https://i.ibb.co/y4ZZf8Y/pexels-biel-heinrich-9760204.jpg",
         "ingredients": [
           "mixed vegetables (such as carrots",
+          "broccoli",
           "broccoli",
           "cauliflower",
           "olive oil"
@@ -436,6 +444,7 @@
         "ingredients": [
           "peaches",
           " burrata cheese",
+          " burrata cheese",
           "arugula",
           "balsamic glaze"
         ],
@@ -455,6 +464,7 @@
           "carrots",
           "honey",
           " Dijon mustard",
+          " Dijon mustard",
           "olive oil"
         ],
         "method": [
@@ -473,6 +483,7 @@
           "canned tuna",
           "avocado",
           "lettuce leaves",
+          "lettuce leaves",
           "lime juice"
         ],
         "method": [
@@ -487,12 +498,7 @@
         "id": 4,
         "name": " Blueberry almond crumble bars",
         "picture": "https://i.ibb.co/RQKLdT0/pexels-jane-doan-1099680.jpg",
-        "ingredients": [
-          "blueberries",
-          "almonds",
-          "oats",
-          "honey"
-        ],
+        "ingredients": ["blueberries", "almonds", "almonds", "oats", "honey"],
         "method": [
           "Preheat oven to 350°F (175°C).",
           "Pulse almonds and oats in a food processor until coarsely ground.",
@@ -538,6 +544,7 @@
         "ingredients": [
           "Spaghetti",
           "Pecorino Romano cheese",
+          "Pecorino Romano cheese",
           "black pepper",
           "salt"
         ],
@@ -556,6 +563,7 @@
         "ingredients": [
           "Tagliatelle pasta",
           "ground beef",
+          "ground beef",
           "canned tomatoes",
           "onion"
         ],
@@ -573,6 +581,7 @@
         "picture": "https://i.ibb.co/RDcn39F/pexels-ofir-eliav-7783244.jpg",
         "ingredients": [
           "Mascarpone cheese",
+          "ladyfingers",
           "ladyfingers",
           "espresso coffee",
           "cocoa powder"
@@ -604,6 +613,7 @@
         "ingredients": [
           "Beef tenderloin",
           " puff pastry",
+          " puff pastry",
           "mushrooms",
           "prosciutto"
         ],
@@ -621,6 +631,7 @@
         "picture": "https://i.ibb.co/zXQPwpK/pexels-jane-doan-769969.jpg",
         "ingredients": [
           "spaghetti",
+          " garlic",
           " garlic",
           "extra-virgin olive oil",
           "red pepper flakes"
@@ -640,6 +651,7 @@
         "ingredients": [
           " beets,",
           "feta cheese",
+          "feta cheese",
           "olive oil",
           "fresh thyme"
         ],
@@ -658,6 +670,7 @@
         "ingredients": [
           "salmon fillet",
           "butter",
+          "lemon  juice",
           "lemon  juice",
           "salt"
         ],
@@ -689,6 +702,7 @@
           "peaches",
           "vanilla ice cream",
           "brown sugar",
+          "cinnamon",
           "cinnamon"
         ],
         "method": [
@@ -704,6 +718,7 @@
         "name": "Chicken tikka masala",
         "picture": "https://i.ibb.co/YRt9NP4/pexels-lisa-fotios-1279330.jpg",
         "ingredients": [
+          "chicken breast",
           "chicken breast",
           "onion",
           "tomato puree",
@@ -724,6 +739,7 @@
         "ingredients": [
           "paneer cheese",
           "spinach",
+          "spinach",
           "heavy cream",
           " ghee"
         ],
@@ -742,6 +758,7 @@
         "ingredients": [
           "fresh tomatoes",
           "fresh mozzarella",
+          "fresh basil",
           "fresh basil",
           "balsamic vinegar"
         ],
@@ -769,12 +786,7 @@
         "id": 1,
         "name": "Avocado toast",
         "picture": "https://i.ibb.co/G7m4yLb/pexels-lisa-fotios-1351238.jpg",
-        "ingredients": [
-          "bread",
-          "avocado",
-          "salt",
-          "lemon juice"
-        ],
+        "ingredients": ["bread", "avocado", "avocado", "salt", "lemon juice"],
         "method": [
           "Toast the bread.",
           "Mash the avocado in a bowl with salt and lemon juice.",
@@ -787,12 +799,7 @@
         "id": 2,
         "name": "Tomato bruschetta",
         "picture": "https://i.ibb.co/1GFn5vW/pexels-mateusz-feliksik-11789787.jpg",
-        "ingredients": [
-          "bread",
-          "tomatoes",
-          "garlic",
-          "olive oil"
-        ],
+        "ingredients": ["bread", "tomatoes", "tomatoes", "garlic", "olive oil"],
         "method": [
           "Toast the bread.",
           "Dice the tomatoes and mix them in a bowl with minced garlic and olive oil.",
@@ -808,6 +815,7 @@
         "ingredients": [
           "sweet potatoes",
           " olive oil",
+          "salt",
           "salt",
           " black pepper"
         ],
@@ -825,6 +833,7 @@
         "picture": "https://i.ibb.co/QPLqpf0/pexels-sydney-troxell-718742.jpg",
         "ingredients": [
           " tomatoes",
+          "fresh mozzarella",
           "fresh mozzarella",
           "basil leaves",
           "balsamic glaze"
@@ -856,6 +865,7 @@
         "ingredients": [
           " pork chops",
           "honey",
+          "honey",
           "mustard",
           "olive oil"
         ],
@@ -871,12 +881,7 @@
         "id": 2,
         "name": "Creamy Avocado Pasta",
         "picture": "https://i.ibb.co/85C17yF/pexels-magda-ehlers-4198400.jpg",
-        "ingredients": [
-          "pasta",
-          "avocado",
-          "garlic",
-          "olive oil"
-        ],
+        "ingredients": ["pasta", "pasta", "avocado", "garlic", "olive oil"],
         "method": [
           "Cook pasta according to package instructions and drain.",
           "In a blender, puree avocado and garlic.",
@@ -893,6 +898,7 @@
           " chicken breasts",
           " bell peppers",
           "pineapple",
+          "pineapple",
           " sweet and sour sauce"
         ],
         "method": [
@@ -908,6 +914,7 @@
         "name": "Roasted Vegetable Salad",
         "picture": "https://i.ibb.co/y4ZZf8Y/pexels-biel-heinrich-9760204.jpg",
         "ingredients": [
+          "mixed vegetables (such as carrots",
           "mixed vegetables (such as carrots",
           "broccoli",
           "cauliflower",
@@ -941,6 +948,7 @@
           "peaches",
           " burrata cheese",
           "arugula",
+          "arugula",
           "balsamic glaze"
         ],
         "method": [
@@ -956,6 +964,7 @@
         "name": "Honey mustard roasted carrots",
         "picture": "https://i.ibb.co/x6LT9tx/pexels-tim-douglas-6210947.jpg",
         "ingredients": [
+          "carrots",
           "carrots",
           "honey",
           " Dijon mustard",
@@ -976,6 +985,7 @@
         "ingredients": [
           "canned tuna",
           "avocado",
+          "avocado",
           "lettuce leaves",
           "lime juice"
         ],
@@ -991,12 +1001,7 @@
         "id": 4,
         "name": " Blueberry almond crumble bars",
         "picture": "https://i.ibb.co/RQKLdT0/pexels-jane-doan-1099680.jpg",
-        "ingredients": [
-          "blueberries",
-          "almonds",
-          "oats",
-          "honey"
-        ],
+        "ingredients": ["blueberries", "almonds", "oats", "oats", "honey"],
         "method": [
           "Preheat oven to 350°F (175°C).",
           "Pulse almonds and oats in a food processor until coarsely ground.",
